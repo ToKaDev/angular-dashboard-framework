@@ -22,8 +22,6 @@
  * SOFTWARE.
  */
 
- //TEST 
- 
 'use strict';
 
 /**
